@@ -2,17 +2,17 @@
   "tupeng_update": [
     {
  "version":"5.235.1",
- "title":"Update",
- "description":"V5.235.1
+ "title":"Update Available",
+ "description":"TupengApp Official V5.235.0
 
-Base: 53250010
+Base: 5.235.1 53250010
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-New Update System
+New Update System 
 
  Root Non Root update available ",
-"download":"https://www.mediafire.com/file/jjozr8w06l08y87/TupengGrabVIP_5.325.1_RnR_Lock.apk/file"
+"download":"download":"https://www.mediafire.com/file/jjozr8w06l08y87/TupengGrabVIP_5.325.1_RnR_Lock.apk/file"
 }
   ]
 }
